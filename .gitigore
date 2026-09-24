@@ -1,0 +1,12 @@
+baglan.php
+config.php
+.env
+veritabani.sql
+*.sql
+uploads/
+uploads/dokumanlar/
+*.exe
+*.zip
+*.rar
+.DS_Store
+Thumbs.db
